@@ -9,6 +9,13 @@ body {
   text-align: center;
   text-transform: uppercase;
   border-top: 1px solid #cddddf;
-  border-bottom:1px solid #cddddf;
+  border-bottom: 1px solid #cddddf;
   background-color: rgba(0,0,0, 0.1)
+}
+
+.my-face {
+  float:top;
+  padding-left: 432px;
+  position: absolute;
+  border-top: 1px solid;
 }
