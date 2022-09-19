@@ -1,1 +1,14 @@
+body {
+  background-color: #344441;
+  color: #cddddf;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10% 20%;
+}
 
+.XP-head {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid #cddddf;
+  border-bottom:1px solid #cddddf;
+  background-color: rgba(0,0,0, 0.1)
+}
